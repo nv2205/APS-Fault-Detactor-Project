@@ -13,7 +13,7 @@ def get_requirements():
         return req_list
 
 setup(
-    naem = 'Sensor',
+    name = 'Sensor',
     version = '0.0.1',
     author = 'nv',
     author_email = 'nv220597@gmail.com',
